@@ -32,20 +32,20 @@ names(subject_test)<-"subjects"
 
 
 
-# Extracts only the measurements on the mean and standard deviation for each measurement
+# Extracts mean and standard deviation 
 means_and_std_colnames<-colnames(X_test)[indices_of_means_and_stds]
 X_test_subset<-cbind(subject_test,y_test,subset(X_test,select=means_and_std_colnames))
 X_train_subset<-cbind(subject_train,y_train,subset(X_train,select=means_and_std_colnames))
 
-# Merges the training and the test sets to create one data set.
+# Merges training and test 
 Xy<-rbind(X_test_subset, X_train_subset)
 
 
-# Creates a second, independent tidy data set with the average of each variable for each activity and each subject
+# Creates a second tidy data set
 tidy<-aggregate(Xy[,3:ncol(Xy)],list(Subject=Xy$subjects, Activity=Xy$labels), mean)
 tidy<-tidy[order(tidy$Subject),]
 
-# Uses descriptive activity names to name the activities in the data set
+# Uses descriptive activity names
 tidy$Activity<-activity_labels[tidy$Activity,]
 
 write.table(tidy, file="./tidydata.txt", sep="\t", row.names=FALSE)

@@ -1,1 +1,6 @@
 Codebook
+
+Training and the test sets were merged to create one data set
+
+Data is grouped by subject first then activity
+Column names are those of the mean and sd columns

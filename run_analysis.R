@@ -18,6 +18,7 @@ names(subject_train)<-"subjects"
 ###################################################################
 
 setwd("../test/")
+
 X_test<-read.table("X_test.txt")
 names(X_test)<-features$V2
 

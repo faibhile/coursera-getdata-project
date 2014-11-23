@@ -37,7 +37,7 @@ activityrecognition@smartlab.ws
 www.smartlab.ws
 
 
-2) https://github.com/Vladimir84/coursera-get-data-002
+2) https://github.com/Vladimir84
 
 3) https://class.coursera.org/getdata-009/forum/thread?thread_id=58#post-177
 

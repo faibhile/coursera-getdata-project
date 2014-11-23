@@ -43,5 +43,7 @@ www.smartlab.ws
 4) https://github.com/Vladimir84
 
 5) https://class.coursera.org/getdata-009/forum/thread?thread_id=204
+
+6) https://www.coursera.org/course/terrorism
     
  

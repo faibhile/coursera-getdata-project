@@ -36,10 +36,9 @@ Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
 
+2) https://class.coursera.org/getdata-009/forum/thread?thread_id=58#post-177
 
-2) https://github.com/Vladimir84
-
-3) https://class.coursera.org/getdata-009/forum/thread?thread_id=58#post-177
+3) https://github.com/Vladimir84
 
 4) https://class.coursera.org/getdata-009/forum/thread?thread_id=204
     

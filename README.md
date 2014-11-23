@@ -25,6 +25,7 @@ Creates a second, independent tidy data set with the average of each variable fo
 
 
 Acknowledgements
+
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova.

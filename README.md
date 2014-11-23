@@ -38,8 +38,10 @@ www.smartlab.ws
 
 2) https://class.coursera.org/getdata-009/forum/thread?thread_id=58#post-177
 
-3) https://github.com/Vladimir84
+3) http://vita.had.co.nz/papers/tidy-data.pdf
 
-4) https://class.coursera.org/getdata-009/forum/thread?thread_id=204
+4) https://github.com/Vladimir84
+
+5) https://class.coursera.org/getdata-009/forum/thread?thread_id=204
     
  
